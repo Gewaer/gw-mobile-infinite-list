@@ -1,0 +1,41 @@
+{
+  "name": "@gewaer/gw-mobile-infinite-list",
+  "version": "0.0.1",
+  "description": "A React Native infinite list component for the Gewaer platform.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "gewaer"
+  ],
+  "peerDependencies": {
+    "axios": ">=0.18.0",
+    "react": ">=16.8.3",
+    "react-native": ">=0.59.9",
+    "native-base": ">=2.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": ">=7.4.5",
+    "@babel/runtime": ">=7.4.5",
+    "@types/react-native": ">=0.57.51",
+    "@types/react-test-renderer": ">=16.8.1",
+    "babel-jest": ">=24.8.0",
+    "jest": ">=24.8.0",
+    "metro-react-native-babel-preset": ">=0.54.1",
+    "react-native-typescript-transformer": ">=1.2.12",
+    "react-test-renderer": ">=16.8.3",
+    "typescript": ">=3.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gewaer/gw-mobile-infinite-list"
+  },
+  "author": "McTekk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gewaer/gw-mobile-infinite-list/issues"
+  },
+  "homepage": "https://github.com/Gewaer/gw-mobile-infinite-list#readme"
+}
